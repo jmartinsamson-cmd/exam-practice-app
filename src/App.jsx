@@ -2172,17 +2172,17 @@ function App() {
         />
         <ul style={{ listStyle: 'none', padding: 0, maxHeight: '60vh', overflowY: 'auto' }} role="listbox" aria-labelledby="sidebar-title">
           {filterChapters(chapters, search).map((ch, idx) => (
-            <li key={ch.chapter} role="option" aria-selected={idx === chapterIdx}>
+            <li key={ch.chapter} role="option" aria-selected={ch.chapter === chapters[chapterIdx]?.chapter}>
               <button
                 style={{
-                  background: idx === chapterIdx ? '#2ecc40' : '#222',
-                  color: idx === chapterIdx ? '#222' : '#fff',
+                  background: ch.chapter === chapters[chapterIdx]?.chapter ? '#2ecc40' : '#222',
+                  color: ch.chapter === chapters[chapterIdx]?.chapter ? '#222' : '#fff',
                   border: 'none',
                   borderRadius: 6,
                   padding: '0.5rem 1rem',
                   marginBottom: '0.5rem',
                   width: '100%',
-                  fontWeight: idx === chapterIdx ? 'bold' : 'normal',
+                  fontWeight: ch.chapter === chapters[chapterIdx]?.chapter ? 'bold' : 'normal',
                   cursor: shuffle ? 'not-allowed' : 'pointer',
                   fontSize: '1rem',
                   transition: 'background 0.2s, color 0.2s',
@@ -2190,7 +2190,9 @@ function App() {
                 }}
                 onClick={() => {
                   if (!shuffle) {
-                    setChapterIdx(idx);
+                    // Find the actual chapter index in the original chapters array
+                    const actualChapterIdx = chapters.findIndex(chapter => chapter.chapter === ch.chapter);
+                    setChapterIdx(actualChapterIdx);
                     setQuestionIdx(0);
                     setSelected(null);
                     setShowRationale(false);
@@ -2201,7 +2203,9 @@ function App() {
                 tabIndex={0}
                 onKeyDown={e => {
                   if ((e.key === 'Enter' || e.key === ' ') && !shuffle) {
-                    setChapterIdx(idx);
+                    // Find the actual chapter index in the original chapters array
+                    const actualChapterIdx = chapters.findIndex(chapter => chapter.chapter === ch.chapter);
+                    setChapterIdx(actualChapterIdx);
                     setQuestionIdx(0);
                     setSelected(null);
                     setShowRationale(false);
@@ -2306,12 +2310,16 @@ function App() {
               minWidth: isMobile ? 'auto' : 350,
               maxWidth: isMobile ? '100%' : '95%',
               width: isMobile ? '100%' : '95%',
+              minHeight: isMobile ? 'auto' : '75vh',
+              height: isMobile ? 'auto' : '75vh',
               boxShadow: '0 8px 32px rgba(0, 0, 0, 0.4), 0 0 0 1px rgba(46, 204, 64, 0.1)',
               display: 'flex',
               flexDirection: 'column',
               alignItems: 'center',
+              justifyContent: 'space-between',
               margin: '0 auto',
-              backdropFilter: 'blur(10px)'
+              backdropFilter: 'blur(10px)',
+              overflow: 'hidden'
             }}>
               <button
                 onClick={toggleBookmark}
@@ -2351,6 +2359,13 @@ function App() {
               {question && (
                 <>
                   <div style={{
+                    display: 'flex',
+                    flexDirection: 'column',
+                    flex: 1,
+                    width: '100%',
+                    justifyContent: 'space-between'
+                  }}>
+                    <div style={{
                     fontSize: '1.2rem',
                     color: '#fff',
                     marginBottom: '0.8rem',
@@ -2370,7 +2385,9 @@ function App() {
                     width: '100%',
                     display: 'grid',
                     gridTemplateColumns: isMobile ? '1fr' : 'repeat(2, 1fr)',
-                    gap: isMobile ? '0.5rem' : '0.8rem'
+                    gap: isMobile ? '0.5rem' : '0.8rem',
+                    flex: 1,
+                    alignContent: 'start'
                   }}>
                     {question.options.map((opt, i) => {
                   const isSelected = selected === i || (isMulti && selected && selected.includes(i));
@@ -2473,6 +2490,7 @@ function App() {
                   );
                     })}
                   </ul>
+                  </div>
                 </>
               )}
               {isMulti && !showRationale && (
