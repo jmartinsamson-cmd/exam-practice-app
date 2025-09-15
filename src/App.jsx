@@ -11,7 +11,7 @@ const AppContent = () => {
   const { state, dispatch } = useApp();
   const [currentView, setCurrentView] = useState('study'); // 'study' | 'analytics'
 
-  const handlePreviousQuestion = () => {
+  const handlePreviousQuestion = React.useCallback(() => {
     const isFirstQuestion = state.currentQuestionIdx === 0;
     const isFirstChapter = state.currentChapterIdx === 0;
 
@@ -22,9 +22,9 @@ const AppContent = () => {
       dispatch({ type: 'SET_CHAPTER', payload: state.currentChapterIdx - 1 });
       dispatch({ type: 'SET_QUESTION', payload: prevChapter.questions.length - 1 });
     }
-  };
+  }, [state.currentQuestionIdx, state.currentChapterIdx, state.chapters, dispatch]);
 
-  const handleNextQuestion = () => {
+  const handleNextQuestion = React.useCallback(() => {
     const currentChapter = state.chapters[state.currentChapterIdx];
     const isLastQuestion = currentChapter && state.currentQuestionIdx === currentChapter.questions.length - 1;
     const isLastChapter = state.currentChapterIdx === state.chapters.length - 1;
@@ -34,7 +34,7 @@ const AppContent = () => {
     } else if (!isLastChapter) {
       dispatch({ type: 'SET_CHAPTER', payload: state.currentChapterIdx + 1 });
     }
-  };
+  }, [state.currentQuestionIdx, state.currentChapterIdx, state.chapters, dispatch]);
 
   // Handle keyboard shortcuts
   useEffect(() => {
