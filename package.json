@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "build:gh-pages": "vite build --base=/exam-practice-app/ && echo console.log('App loaded') > dist/assets/app.js && copy dist\\index.html dist\\404.html && copy public\\main.jsx dist\\main.jsx && (if not exist dist\\src mkdir dist\\src) && copy public\\src\\main.jsx dist\\src\\main.jsx",
+    "build:gh-pages": "vite build --base=/exam-practice-app/ && echo console.log('App loaded') > dist/assets/app.js && copy dist\\index.html dist\\404.html && copy public\\main.jsx dist\\main.jsx && (if not exist dist\\src mkdir dist\\src) && copy public\\src\\main.jsx dist\\src\\main.jsx && echo. > dist\\.nojekyll",
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build:gh-pages",
