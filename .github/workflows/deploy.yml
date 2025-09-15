@@ -25,13 +25,17 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Build
-        run: npm run build:gh-pages
+      - name: Build for GitHub Pages
+        run: |
+          npm run build -- --base=/exam-practice-app/
+          cp dist/index.html dist/404.html
+          echo "" > dist/.nojekyll
 
       - name: Debug build output
         run: |
           ls -la dist/
           ls -la dist/assets/ || echo "No assets directory"
+          cat dist/.nojekyll || echo "No .nojekyll file"
 
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
