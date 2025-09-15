@@ -1,0 +1,49 @@
+{
+  "chapters": [
+    {
+      "chapter": 9,
+      "filename": "chapter-9.json",
+      "questionCount": 41
+    },
+    {
+      "chapter": 28,
+      "filename": "chapter-28.json",
+      "questionCount": 39
+    },
+    {
+      "chapter": 29,
+      "filename": "chapter-29.json",
+      "questionCount": 35
+    },
+    {
+      "chapter": 30,
+      "filename": "chapter-30.json",
+      "questionCount": 31
+    },
+    {
+      "chapter": 32,
+      "filename": "chapter-32.json",
+      "questionCount": 47
+    },
+    {
+      "chapter": 34,
+      "filename": "chapter-34.json",
+      "questionCount": 26
+    },
+    {
+      "chapter": 35,
+      "filename": "chapter-35.json",
+      "questionCount": 35
+    },
+    {
+      "chapter": 37,
+      "filename": "chapter-37.json",
+      "questionCount": 10
+    },
+    {
+      "chapter": 38,
+      "filename": "chapter-38.json",
+      "questionCount": 36
+    }
+  ]
+}

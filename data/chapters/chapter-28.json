@@ -1,0 +1,466 @@
+{
+  "chapter": 28,
+  "questions": [
+    {
+      "question": "What is the most abundant class of plasma protein?",
+      "options": [
+        "Globulin",
+        "Albumin",
+        "Clotting factors",
+        "Complement proteins"
+      ],
+      "answer": 1,
+      "rationale": "Albumin (~60% of total plasma protein at a concentration of about 4 g/dl) is the most abundant plasma protein."
+    },
+    {
+      "question": "What is the effect of low plasma albumin?",
+      "options": [
+        "Clotting factors decrease, thus increasing chance of prolonged bleeding.",
+        "Fewer immunoglobulins synthesized, impairing immune function.",
+        "Less iron stored, increasing iron deficiency anemia.",
+        "Osmotic pressure decreases, water moves into interstitium."
+      ],
+      "answer": 3,
+      "rationale": "Low albumin decreases oncotic pressure → fluid moves into tissues → decreased blood volume."
+    },
+    {
+      "question": "What is the life span of an erythrocyte (in days)?",
+      "options": [
+        "20–30",
+        "60–90",
+        "100–120",
+        "200–240"
+      ],
+      "answer": 2,
+      "rationale": "Because erythrocytes cannot undergo mitosis, life span is ~120 days."
+    },
+    {
+      "question": "Which statement concerning erythrocytes is true?",
+      "options": [
+        "Erythrocytes contain a nucleus, mitochondria, and ribosomes.",
+        "Erythrocytes synthesize proteins.",
+        "Erythrocytes deform to squeeze through capillaries.",
+        "Erythrocyte colony-stimulating factor stimulates activity."
+      ],
+      "answer": 2,
+      "rationale": "Reversible deformity enables erythrocytes to assume torpedo-like shape and squeeze through circulation."
+    },
+    {
+      "question": "Granulocytes that contain vasoactive amines such as histamine are called:",
+      "options": [
+        "Neutrophils",
+        "Eosinophils",
+        "Basophils",
+        "Monocytes"
+      ],
+      "answer": 2,
+      "rationale": "Basophils contain histamine, chemotactic factors, enzymes, and heparin."
+    },
+    {
+      "question": "Which blood elements are disk-shaped cytoplasmic fragments essential for clotting?",
+      "options": [
+        "Monocytes",
+        "Platelets",
+        "Macrophages",
+        "Erythrocytes"
+      ],
+      "answer": 1,
+      "rationale": "Platelets are cytoplasmic fragments essential for clotting."
+    },
+    {
+      "question": "Blood cells that differentiate into macrophages are known as:",
+      "options": [
+        "Monocytes",
+        "Neutrophils",
+        "Eosinophils",
+        "Basophils"
+      ],
+      "answer": 0,
+      "rationale": "Only monocytes migrate and become macrophages."
+    },
+    {
+      "question": "Without prior exposure to antigen, which cells destroy some tumor and virus-infected cells?",
+      "options": [
+        "Lymphocytes",
+        "Plasma cells",
+        "Megakaryocytes",
+        "NK cells"
+      ],
+      "answer": 3,
+      "rationale": "Natural killer cells kill some tumor/virus-infected cells without prior exposure."
+    },
+    {
+      "question": "What is the life span of platelets (in days)?",
+      "options": [
+        "10",
+        "30",
+        "90",
+        "120"
+      ],
+      "answer": 0,
+      "rationale": "Platelets circulate ~10 days."
+    },
+    {
+      "question": "Fetal hematopoiesis occurs in which structure?",
+      "options": [
+        "Gut",
+        "Spleen",
+        "Bone marrow",
+        "Thymus"
+      ],
+      "answer": 1,
+      "rationale": "Spleen is the largest secondary hematopoietic organ in fetus."
+    },
+    {
+      "question": "What is the consequence of splenectomy?",
+      "options": [
+        "Increased iron in circulation",
+        "Increased antibody production",
+        "Increased defective cells in circulation",
+        "Increased clotting factors"
+      ],
+      "answer": 2,
+      "rationale": "Splenectomy results in defective cells remaining in circulation."
+    },
+    {
+      "question": "During infection, why do lymph nodes enlarge?",
+      "options": [
+        "Lymphocytes proliferate",
+        "Nodes inflamed",
+        "Nodes fill with exudate",
+        "Nodes not functioning"
+      ],
+      "answer": 0,
+      "rationale": "B-lymphocyte proliferation causes lymph node enlargement."
+    },
+    {
+      "question": "Which blood cells are the chief phagocytes of early inflammation?",
+      "options": [
+        "Neutrophils",
+        "Monocytes",
+        "Eosinophils",
+        "Basophils"
+      ],
+      "answer": 0,
+      "rationale": "Neutrophils are the chief phagocytes of early inflammation."
+    },
+    {
+      "question": "Which blood cells are biconcave in shape and deformable?",
+      "options": [
+        "Neutrophils",
+        "Monocytes",
+        "Eosinophils",
+        "Erythrocytes"
+      ],
+      "answer": 3,
+      "rationale": "Erythrocytes are biconcave and deformable, aiding gas transport."
+    },
+    {
+      "question": "Which hemoglobin is made from oxidized ferric iron (Fe3+) and cannot bind oxygen?",
+      "options": [
+        "Deoxyhemoglobin",
+        "Oxyhemoglobin",
+        "Methemoglobin",
+        "Glycosylated hemoglobin"
+      ],
+      "answer": 2,
+      "rationale": "Methemoglobin (Fe3+) cannot bind oxygen."
+    },
+    {
+      "question": "Absence of parietal cells would prevent absorption of which nutrient?",
+      "options": [
+        "Iron deficiency",
+        "Pernicious anemia",
+        "Folic acid deficiency",
+        "Aplastic anemia"
+      ],
+      "answer": 1,
+      "rationale": "Without parietal cells, intrinsic factor (IF) cannot transport vitamin B12 → pernicious anemia."
+    },
+    {
+      "question": "Which nutrients are necessary for DNA synthesis and erythrocyte maturation?",
+      "options": [
+        "Protein and niacin",
+        "Iron and vitamin B6",
+        "Cobalamin (B12) and folate",
+        "Pantothenic acid and vitamin C"
+      ],
+      "answer": 2,
+      "rationale": "Cobalamin and folate are essential for DNA synthesis."
+    },
+    {
+      "question": "Which nutrients are necessary for hemoglobin synthesis?",
+      "options": [
+        "Protein and niacin",
+        "Iron and vitamin B6",
+        "Cobalamin (B12) and folate",
+        "Pantothenic acid and vitamin C"
+      ],
+      "answer": 1,
+      "rationale": "Iron and B6 are essential for hemoglobin synthesis."
+    },
+    {
+      "question": "Recycling of iron from erythrocytes is made possible by which?",
+      "options": [
+        "Transferrin",
+        "Hemosiderin",
+        "Apoferritin",
+        "Erythropoietin"
+      ],
+      "answer": 0,
+      "rationale": "Transferrin recycles iron by binding and transporting it."
+    },
+    {
+      "question": "By which structure are mature erythrocytes removed from the bloodstream?",
+      "options": [
+        "Liver",
+        "Lymph nodes",
+        "Thymus",
+        "Spleen"
+      ],
+      "answer": 3,
+      "rationale": "After ~100–120 days, old erythrocytes are removed by macrophages, primarily in the spleen."
+    },
+    {
+      "question": "Which substance is used to correct the chronic anemia associated with chronic renal failure?",
+      "options": [
+        "Iron",
+        "Erythropoietin",
+        "Cobalamin (B12)",
+        "Folate"
+      ],
+      "answer": 1,
+      "rationale": "Erythropoietin is used in treatment of chronic anemia of renal failure."
+    },
+    {
+      "question": "What is the role of thromboxane A2 (TXA2) in hemostasis?",
+      "options": [
+        "Stimulates protein synthesis",
+        "Promotes vasodilation",
+        "Stimulates platelet aggregation",
+        "Promotes formation of cyclooxygenase"
+      ],
+      "answer": 2,
+      "rationale": "TXA2 stimulates platelet aggregation and vasoconstriction."
+    },
+    {
+      "question": "Which of the following is the role of nitric oxide (NO) in hemostasis?",
+      "options": [
+        "Stimulates release of fibrinogen",
+        "Stimulates release of clotting factors",
+        "Causes vasoconstriction and platelet aggregation",
+        "Controls platelet activation through cGMP-mediated signaling"
+      ],
+      "answer": 3,
+      "rationale": "NO controls platelet activation through cyclic GMP signaling."
+    },
+    {
+      "question": "The drug heparin acts in hemostasis by which processes?",
+      "options": [
+        "Inhibiting thrombin and antithrombin III",
+        "Preventing conversion of prothrombin to thrombin",
+        "Shortening fibrin strands",
+        "Degrading fibrin clots"
+      ],
+      "answer": 0,
+      "rationale": "Heparin enhances antithrombin III activity."
+    },
+    {
+      "question": "What is plasmin’s role in the clotting process?",
+      "options": [
+        "Stimulates platelet aggregation",
+        "Inhibits platelet adhesion",
+        "Prevents conversion of prothrombin",
+        "Degrades fibrin clots"
+      ],
+      "answer": 3,
+      "rationale": "Plasmin degrades fibrin polymers in clots."
+    },
+    {
+      "question": "What does polycythemia at birth indicate?",
+      "options": [
+        "Hypoxia in utero",
+        "Dysfunctional bone marrow",
+        "Congenitally absent spleen",
+        "Dehydration"
+      ],
+      "answer": 0,
+      "rationale": "Polycythemia indicates hypoxia in utero."
+    },
+    {
+      "question": "Where are Kupffer cells located?",
+      "options": [
+        "Kidneys",
+        "Liver",
+        "Pancreas",
+        "Spleen"
+      ],
+      "answer": 1,
+      "rationale": "Kupffer cells are macrophages in the liver."
+    },
+    {
+      "question": "Where are Langerhans cells found?",
+      "options": [
+        "Skin",
+        "Intestinal lining",
+        "Kidney",
+        "Thyroid"
+      ],
+      "answer": 0,
+      "rationale": "Langerhans cells are found in skin."
+    },
+    {
+      "question": "What is the role of collagen in clotting?",
+      "options": [
+        "Initiates clotting cascade",
+        "Activates platelets",
+        "Stimulates fibrin",
+        "Deactivates fibrinogen"
+      ],
+      "answer": 1,
+      "rationale": "Collagen provides strong stimulus to activate platelets."
+    },
+    {
+      "question": "Which form of iron can be used in hemoglobin?",
+      "options": [
+        "Fe3+",
+        "Fe2+",
+        "Fe4+",
+        "Fe6+"
+      ],
+      "answer": 1,
+      "rationale": "Only reduced ferrous iron (Fe2+) can bind oxygen."
+    },
+    {
+      "question": "Where are alveolar macrophages found?",
+      "options": [
+        "Skin",
+        "Breasts",
+        "GI tract",
+        "Lungs"
+      ],
+      "answer": 3,
+      "rationale": "Alveolar macrophages are found in lungs."
+    },
+    {
+      "question": "What changes to the hematologic system are related to aging?",
+      "options": [
+        "Increased platelet adhesiveness",
+        "Decreased lymphocyte function",
+        "Increased cellular immunity",
+        "Accelerated erythrocyte reproduction"
+      ],
+      "answer": 1,
+      "rationale": "Lymphocyte function decreases with age."
+    },
+    {
+      "question": "What is the function of erythrocytes?",
+      "options": [
+        "Tissue oxygenation",
+        "Hemostasis",
+        "Infection control",
+        "Allergy response"
+      ],
+      "answer": 0,
+      "rationale": "Erythrocytes are solely responsible for oxygenation."
+    },
+    {
+      "question": "Which characteristics allow erythrocytes to function as gas carriers? (Select all that apply.)",
+      "options": [
+        "Permanent shape",
+        "Compactness",
+        "Reversible deformability",
+        "Hyperactive mitochondria",
+        "Biconcavity"
+      ],
+      "answer": [
+        2,
+        4
+      ],
+      "rationale": "Erythrocytes are biconcave and deformable."
+    },
+    {
+      "question": "Which statements about plasma proteins are correct? (Select all that apply.)",
+      "options": [
+        "Provide clotting factors",
+        "Transport triglycerides",
+        "Synthesize complement proteins",
+        "Create hydrostatic pressure",
+        "Transport cholesterol"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "rationale": "Plasma proteins do not create hydrostatic pressure."
+    },
+    {
+      "question": "What are the primary anticoagulant mechanisms? (Select all that apply.)",
+      "options": [
+        "Antithrombin III",
+        "Tissue factor pathway inhibitor",
+        "Hematopoiesis",
+        "Protein C",
+        "Phagocytosis"
+      ],
+      "answer": [
+        0,
+        1,
+        3
+      ],
+      "rationale": "Major anticoagulants include antithrombin III, tissue factor inhibitors, protein C."
+    },
+    {
+      "question": "Which statements are true regarding the role of endothelium in clot formation? (Select all that apply.)",
+      "options": [
+        "Produces protease inhibitors",
+        "Plasma proteins assist prevention",
+        "Thrombomodulin converted on endothelial surface",
+        "Protein B binds thrombonium",
+        "Activated protein C enhances adhesion"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "rationale": "Endothelium resists clot formation with protease inhibitors, thrombomodulin, protein C."
+    },
+    {
+      "question": "Which statements characterize albumin? (Select all that apply.)",
+      "options": [
+        "Retains sodium for osmotic balance",
+        "Provides colloid osmotic pressure",
+        "Synthesized in the liver",
+        "Carrier for water-insoluble drugs",
+        "Is a small molecule"
+      ],
+      "answer": [
+        1,
+        2,
+        3
+      ],
+      "rationale": "Albumin maintains osmotic pressure, is synthesized in liver, and carries water-insoluble drugs."
+    },
+    {
+      "question": "Matching: Endomitosis, Hemostasis, Hematopoiesis, Erythropoiesis, Phagocytosis",
+      "options": [
+        "Clotting",
+        "Red blood cell development",
+        "Red blood cell destruction",
+        "Platelet formation",
+        "Blood cell production"
+      ],
+      "answer": [
+        3,
+        0,
+        4,
+        1,
+        2
+      ],
+      "rationale": "39. Endomitosis → Platelet formation; 40. Hemostasis → Clotting; 41. Hematopoiesis → Blood cell production; 42. Erythropoiesis → Red blood cell development; 43. Phagocytosis → Red blood cell destruction."
+    }
+  ]
+}

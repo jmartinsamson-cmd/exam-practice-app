@@ -1,0 +1,316 @@
+{
+  "chapter": 34,
+  "questions": [
+    {
+      "question": "Most cardiovascular developments occur between which weeks of gestation?",
+      "options": [
+        "Fourth and seventh weeks",
+        "Eighth and tenth weeks",
+        "Twelfth and fourteenth weeks",
+        "Fifteenth and seventeenth weeks"
+      ],
+      "answer": 0,
+      "rationale": "Cardiogenesis begins around 3 weeks, but most major development occurs between 4–7 weeks."
+    },
+    {
+      "question": "Function of the foramen ovale in a fetus:",
+      "options": [
+        "Right-to-left blood shunting",
+        "Left-to-right blood shunting",
+        "Blood flow from umbilical cord",
+        "Blood flow to lungs"
+      ],
+      "answer": 0,
+      "rationale": "The foramen ovale allows blood to bypass the lungs via right-to-left shunting."
+    },
+    {
+      "question": "At birth, which statement is true?",
+      "options": [
+        "Systemic resistance and pulmonary resistance fall",
+        "Gas exchange shifts from placenta to lung",
+        "Systemic resistance falls, pulmonary resistance rises",
+        "Systemic resistance and pulmonary resistance rise"
+      ],
+      "answer": 1,
+      "rationale": "At birth, the infant shifts from placental oxygenation to pulmonary gas exchange."
+    },
+    {
+      "question": "When does systemic vascular resistance increase in infants?",
+      "options": [
+        "One month before birth",
+        "During labor",
+        "One hour after birth",
+        "When placenta removed"
+      ],
+      "answer": 3,
+      "rationale": "Removal of the low-resistance placenta doubles systemic vascular resistance."
+    },
+    {
+      "question": "Which event triggers acyanotic CHF?",
+      "options": [
+        "Left-to-right shunts",
+        "Right-to-left shunts",
+        "Obstructive lesions",
+        "Mixed lesions"
+      ],
+      "answer": 0,
+      "rationale": "Left-to-right shunts increase pulmonary blood flow, leading to CHF."
+    },
+    {
+      "question": "Older child with uncorrected septal defect develops cyanosis due to:",
+      "options": [
+        "Right-to-left shunts",
+        "Left-to-right shunts",
+        "Obstructive lesions",
+        "Mixed lesions"
+      ],
+      "answer": 0,
+      "rationale": "Pulmonary vascular resistance increases over time, reversing the shunt."
+    },
+    {
+      "question": "Which congenital defects are linked to trisomy 13, 18, and Down syndrome?",
+      "options": [
+        "COA and PS",
+        "VSD and PDA",
+        "ASD and AVC defect",
+        "Tetralogy of Fallot"
+      ],
+      "answer": 1,
+      "rationale": "Trisomies and Down syndrome commonly include VSD and PDA."
+    },
+    {
+      "question": "Continuous machine-type murmur, bounding pulses, CHF in infant =",
+      "options": [
+        "ASD",
+        "VSD",
+        "PDA",
+        "AVC"
+      ],
+      "answer": 2,
+      "rationale": "PDA causes continuous machine-like murmur and bounding pulses."
+    },
+    {
+      "question": "Crescendo-decrescendo ejection murmur between 2nd–3rd intercostal spaces, fixed split S2 =",
+      "options": [
+        "ASD",
+        "VSD",
+        "PDA",
+        "AVC"
+      ],
+      "answer": 0,
+      "rationale": "ASD causes systolic ejection murmur with fixed split of S2."
+    },
+    {
+      "question": "Loud holosystolic murmur at left lower sternal border radiating to neck =",
+      "options": [
+        "ASD",
+        "VSD",
+        "PDA",
+        "AVC"
+      ],
+      "answer": 1,
+      "rationale": "VSD produces harsh holosystolic murmur, often with thrill."
+    },
+    {
+      "question": "Location of COA:",
+      "options": [
+        "Aortic arch only",
+        "Proximal to brachiocephalic",
+        "Between subclavian origin and ductus arteriosus",
+        "Between celiac and renal arteries"
+      ],
+      "answer": 2,
+      "rationale": "Classic COA is just distal to subclavian origin, near ductus arteriosus."
+    },
+    {
+      "question": "Classic signs of COA:",
+      "options": [
+        "Tetralogy of Fallot",
+        "Aortic stenosis",
+        "VSD",
+        "COA"
+      ],
+      "answer": 3,
+      "rationale": "COA = upper extremity HTN, weak/absent femoral pulses, systolic murmur."
+    },
+    {
+      "question": "Initial manifestation of COA in neonates:",
+      "options": [
+        "CHF",
+        "Cor pulmonale",
+        "Pulmonary HTN",
+        "Renal HTN"
+      ],
+      "answer": 0,
+      "rationale": "Newborns with COA usually present with CHF."
+    },
+    {
+      "question": "Compensatory mechanism in Tetralogy of Fallot:",
+      "options": [
+        "Lying left",
+        "Valsalva",
+        "Squatting",
+        "Hyperventilation"
+      ],
+      "answer": 2,
+      "rationale": "Squatting ↑ systemic resistance, reduces right-to-left shunt."
+    },
+    {
+      "question": "Small PDA infant likely presents with:",
+      "options": [
+        "Intermittent murmur",
+        "Surgical repair need",
+        "Triad of defects",
+        "CHF"
+      ],
+      "answer": 0,
+      "rationale": "Small PDA is often asymptomatic with intermittent murmur."
+    },
+    {
+      "question": "Most common cause of neonatal sustained HTN:",
+      "options": [
+        "Renal parenchymal disease",
+        "Primary HTN",
+        "Renal artery stenosis",
+        "Congenital renal malformation"
+      ],
+      "answer": 2,
+      "rationale": "Renal artery stenosis is most common in newborn sustained HTN."
+    },
+    {
+      "question": "Transposition of great vessels:",
+      "options": [
+        "Aorta arises from RV",
+        "Pulmonary trunk from RV",
+        "RV pumps to lungs",
+        "Intermittent murmur"
+      ],
+      "answer": 0,
+      "rationale": "In TGA, aorta connects to RV and pulmonary artery to LV."
+    },
+    {
+      "question": "Total anomalous pulmonary venous return:",
+      "options": [
+        "Foramen ovale closes",
+        "Pulmonary veins drain to RA",
+        "Pulmonary veins drain to LA",
+        "IVC receives oxygenated blood"
+      ],
+      "answer": 1,
+      "rationale": "All pulmonary veins connect abnormally to RA/systemic veins."
+    },
+    {
+      "question": "Systolic ejection murmur at right upper sternal border radiating to neck =",
+      "options": [
+        "COA",
+        "Pulmonary stenosis",
+        "Aortic stenosis",
+        "HLHS"
+      ],
+      "answer": 2,
+      "rationale": "Aortic stenosis causes harsh ejection murmur at RUSB."
+    },
+    {
+      "question": "Systolic ejection click at upper LSB with thrill:",
+      "options": [
+        "COA",
+        "PS",
+        "AS",
+        "HLHS"
+      ],
+      "answer": 1,
+      "rationale": "Pulmonary stenosis causes systolic ejection click + thrill at LSB."
+    },
+    {
+      "question": "Single vessel supplying both systemic + pulmonary circulation =",
+      "options": [
+        "COA",
+        "TOF",
+        "TAPVR",
+        "Truncus arteriosus"
+      ],
+      "answer": 3,
+      "rationale": "Truncus arteriosus = failure of embryonic truncus to separate."
+    },
+    {
+      "question": "Suggested BP for 9-year-old child:",
+      "options": [
+        "104/55 mm Hg",
+        "106/58 mm Hg",
+        "112/62 mm Hg",
+        "121/70 mm Hg"
+      ],
+      "answer": 0,
+      "rationale": "Normal for 8–9 years = ~104/55."
+    },
+    {
+      "question": "Congenital defects associated with maternal rubella (select all):",
+      "options": [
+        "PS",
+        "Cardiomegaly",
+        "PDA",
+        "COA",
+        "VSD"
+      ],
+      "answer": [
+        0,
+        2,
+        3
+      ],
+      "rationale": "A, C, D: PS, PDA, COA are associated with maternal rubella."
+    },
+    {
+      "question": "Diagnostic criteria for Kawasaki disease (select all):",
+      "options": [
+        "Fever ≥ 5 days",
+        "Strawberry tongue",
+        "Peripheral edema",
+        "Lymphadenopathy",
+        "Bilateral conjunctival injection"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "rationale": "A, B, C, D, E: All listed are diagnostic criteria for Kawasaki disease."
+    },
+    {
+      "question": "ABPM statements true (select all):",
+      "options": [
+        "Monitors BP for 24h",
+        "Identifies white coat HTN",
+        "Detects masked HTN",
+        "Identifies high-risk organ damage",
+        "Must be ≥ 48h"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "rationale": "A, B, C, D: ABPM monitors BP for 24h, identifies white coat and masked HTN, and detects high-risk organ damage."
+    },
+    {
+      "question": "Matching: ASD, Foramen ovale, Septum secundum, Ostium primum, Bulbus cordis",
+      "options": [
+        "Causes atrial separation",
+        "Gap between septum primum and secundum",
+        "Conal portion of ventricular septum",
+        "Abnormal communication between atria",
+        "Allows right-to-left shunting"
+      ],
+      "answer": [
+        3,
+        4,
+        0,
+        1,
+        2
+      ],
+      "rationale": "26. ASD → Abnormal communication between atria; 27. Foramen ovale → Allows right-to-left shunting; 28. Septum secundum → Causes atrial separation; 29. Ostium primum → Gap between septum primum and secundum; 30. Bulbus cordis → Conal portion of ventricular septum."
+    }
+  ]
+}

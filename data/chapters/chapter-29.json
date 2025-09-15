@@ -1,0 +1,419 @@
+{
+  "chapter": 29,
+  "questions": [
+    {
+      "question": "What term is used to describe the capacity of some erythrocytes to vary in size, especially in relationship to some anemias?",
+      "options": [
+        "Poikilocytosis",
+        "Isocytosis",
+        "Anisocytosis",
+        "Microcytosis"
+      ],
+      "answer": 2,
+      "rationale": "Additional descriptors of erythrocytes associated with some anemias include anisocytosis (assuming various sizes) and poikilocytosis (assuming various shapes). The remaining terms are not associated with this condition."
+    },
+    {
+      "question": "What is the fundamental physiologic manifestation of anemia?",
+      "options": [
+        "Hypotension",
+        "Hyperesthesia",
+        "Hypoxia",
+        "Ischemia"
+      ],
+      "answer": 2,
+      "rationale": "The fundamental physiologic manifestation of anemia is a reduced oxygen-carrying capacity of the blood, resulting in tissue hypoxia."
+    },
+    {
+      "question": "The paresthesia that occurs with vitamin B12 deficiency anemia is a result of which of the following?",
+      "options": [
+        "Reduction in acetylcholine receptors in the postsynaptic nerves",
+        "Myelin degeneration in the spinal cord",
+        "Destruction of myelin in peripheral nerves",
+        "Altered function of neurons in the parietal lobe"
+      ],
+      "answer": 1,
+      "rationale": "Effects on the nervous system can occur if a vitamin B12 deficiency causes the anemia. Myelin degeneration may occur with the resultant loss of fibers in the spinal cord, producing paresthesia (numbness), gait disturbances, spasticity, and reflex abnormalities."
+    },
+    {
+      "question": "Which of the following describes how the body compensates for anemia?",
+      "options": [
+        "Increasing rate and depth of breathing",
+        "Decreasing capillary vasoconstriction",
+        "Hemoglobin holding more firmly onto oxygen",
+        "Kidneys releasing more erythropoietin"
+      ],
+      "answer": 0,
+      "rationale": "Tissue hypoxia creates additional demands and compensatory actions on the pulmonary and hematologic systems. The rate and depth of breathing increase in an attempt to increase the availability of oxygen."
+    },
+    {
+      "question": "Which is the most common type of anemia?",
+      "options": [
+        "Iron deficiency",
+        "Folate deficiency",
+        "Pernicious",
+        "Hemolytic"
+      ],
+      "answer": 0,
+      "rationale": "Iron deficiency anemia is the most common type of anemia worldwide."
+    },
+    {
+      "question": "Which blood disorder is an X-linked recessive disorder?",
+      "options": [
+        "Sickle cell disease",
+        "Hemophilia A",
+        "Thalassemia",
+        "Iron deficiency anemia"
+      ],
+      "answer": 1,
+      "rationale": "Hemophilia A is an X-linked recessive clotting disorder."
+    },
+    {
+      "question": "What is the cause of beta-thalassemia major?",
+      "options": [
+        "Deficiency of factor VIII",
+        "Absence of hemoglobin A",
+        "Defective platelet production",
+        "Deficiency of iron"
+      ],
+      "answer": 1,
+      "rationale": "Beta-thalassemia major results from absent beta chains, leading to absence of hemoglobin A."
+    },
+    {
+      "question": "Which condition is associated with decreased platelet count in children?",
+      "options": [
+        "Idiopathic thrombocytopenic purpura (ITP)",
+        "Hemophilia A",
+        "Sickle cell disease",
+        "Thalassemia"
+      ],
+      "answer": 0,
+      "rationale": "ITP is an autoimmune condition leading to destruction of platelets."
+    },
+    {
+      "question": "Which clinical manifestation is typical of acute lymphoblastic leukemia (ALL)?",
+      "options": [
+        "Bone pain and fever",
+        "Severe hemarthrosis",
+        "Petechiae with splenomegaly",
+        "Hematuria"
+      ],
+      "answer": 0,
+      "rationale": "Children with ALL often present with bone pain, fever, and general malaise."
+    },
+    {
+      "question": "Which diagnostic finding is consistent with thalassemia major?",
+      "options": [
+        "Elevated hemoglobin A",
+        "Absence of hemoglobin A",
+        "Increased serum iron",
+        "Decreased ferritin"
+      ],
+      "answer": 1,
+      "rationale": "The absence of hemoglobin A is diagnostic of thalassemia major."
+    },
+    {
+      "question": "Which condition is the most common of the childhood cancers?",
+      "options": [
+        "Leukemia",
+        "Lymphoma",
+        "Neuroblastoma",
+        "Sarcoma"
+      ],
+      "answer": 0,
+      "rationale": "Leukemia is the most common malignancy of childhood, accounting for about 30% of all cancers in children."
+    },
+    {
+      "question": "Which type of leukemia is most common in children?",
+      "options": [
+        "Acute lymphocytic leukemia (ALL)",
+        "Chronic lymphocytic leukemia (CLL)",
+        "Acute myelogenous leukemia (AML)",
+        "Chronic myelogenous leukemia (CML)"
+      ],
+      "answer": 0,
+      "rationale": "ALL is the most common type of childhood leukemia."
+    },
+    {
+      "question": "Which condition results in sickling of red blood cells?",
+      "options": [
+        "Hemophilia A",
+        "Thalassemia major",
+        "Sickle cell disease",
+        "Iron deficiency anemia"
+      ],
+      "answer": 2,
+      "rationale": "Sickle cell disease is characterized by the production of abnormal hemoglobin S, which causes red blood cells to sickle under low oxygen conditions."
+    },
+    {
+      "question": "Which clinical manifestation is most consistent with hemophilia?",
+      "options": [
+        "Recurrent infections",
+        "Hemarthrosis",
+        "Severe anemia",
+        "Splenomegaly"
+      ],
+      "answer": 1,
+      "rationale": "Hemarthrosis (bleeding into the joints) is characteristic of hemophilia."
+    },
+    {
+      "question": "Which diagnostic test confirms iron deficiency anemia in children?",
+      "options": [
+        "Increased hematocrit",
+        "Low serum ferritin",
+        "Elevated reticulocyte count",
+        "Bone marrow biopsy"
+      ],
+      "answer": 1,
+      "rationale": "Low serum ferritin is diagnostic of iron deficiency anemia."
+    },
+    {
+      "question": "Which genetic disorder is characterized by a defect in the production of clotting factor VIII?",
+      "options": [
+        "Hemophilia A",
+        "Hemophilia B",
+        "Von Willebrand disease",
+        "Thalassemia"
+      ],
+      "answer": 0,
+      "rationale": "Hemophilia A results from a deficiency in clotting factor VIII."
+    },
+    {
+      "question": "Which disorder is characterized by excessive red cell destruction?",
+      "options": [
+        "Aplastic anemia",
+        "Hemolytic anemia",
+        "Iron deficiency anemia",
+        "Pernicious anemia"
+      ],
+      "answer": 1,
+      "rationale": "Hemolytic anemia results from premature destruction of red cells."
+    },
+    {
+      "question": "Which vitamin deficiency is associated with pernicious anemia?",
+      "options": [
+        "Vitamin C",
+        "Vitamin K",
+        "Vitamin B12",
+        "Folate"
+      ],
+      "answer": 2,
+      "rationale": "Pernicious anemia results from a deficiency in vitamin B12."
+    },
+    {
+      "question": "Which population is most at risk for iron deficiency anemia?",
+      "options": [
+        "Middle-aged men",
+        "Children and women",
+        "Athletes",
+        "Postmenopausal women"
+      ],
+      "answer": 1,
+      "rationale": "Children and women are at highest risk."
+    },
+    {
+      "question": "Which condition is associated with abnormal hemoglobin synthesis and ineffective erythropoiesis?",
+      "options": [
+        "Sickle cell disease",
+        "Iron deficiency anemia",
+        "Thalassemia",
+        "Hemophilia"
+      ],
+      "answer": 2,
+      "rationale": "Thalassemia involves defective hemoglobin synthesis and ineffective erythropoiesis."
+    },
+    {
+      "question": "Which deficiency results in megaloblastic anemia?",
+      "options": [
+        "Iron",
+        "Vitamin B12 or folate",
+        "Vitamin K",
+        "Protein"
+      ],
+      "answer": 1,
+      "rationale": "Both vitamin B12 and folate deficiencies impair DNA synthesis, resulting in megaloblastic anemia."
+    },
+    {
+      "question": "Which anemia is caused by bone marrow failure?",
+      "options": [
+        "Iron deficiency anemia",
+        "Hemolytic anemia",
+        "Aplastic anemia",
+        "Pernicious anemia"
+      ],
+      "answer": 2,
+      "rationale": "Aplastic anemia results from bone marrow failure, leading to pancytopenia."
+    },
+    {
+      "question": "Which anemia is characterized by microcytic, hypochromic red cells?",
+      "options": [
+        "Iron deficiency anemia",
+        "Aplastic anemia",
+        "Pernicious anemia",
+        "Hemolytic anemia"
+      ],
+      "answer": 0,
+      "rationale": "Iron deficiency anemia produces microcytic, hypochromic red cells."
+    },
+    {
+      "question": "Which is the most common inherited bleeding disorder?",
+      "options": [
+        "Hemophilia A",
+        "Hemophilia B",
+        "Von Willebrand disease",
+        "Factor V deficiency"
+      ],
+      "answer": 2,
+      "rationale": "Von Willebrand disease is the most common inherited bleeding disorder."
+    },
+    {
+      "question": "Which is the most common nutritional disorder in the world?",
+      "options": [
+        "Vitamin D deficiency",
+        "Protein deficiency",
+        "Iron deficiency anemia",
+        "Folate deficiency"
+      ],
+      "answer": 2,
+      "rationale": "Iron deficiency anemia is the most common nutritional disorder worldwide."
+    },
+    {
+      "question": "Which test is used to diagnose sickle cell disease?",
+      "options": [
+        "Serum ferritin",
+        "Peripheral smear",
+        "Hemoglobin electrophoresis",
+        "Bone marrow biopsy"
+      ],
+      "answer": 2,
+      "rationale": "Hemoglobin electrophoresis identifies hemoglobin S in sickle cell disease."
+    },
+    {
+      "question": "Which condition is characterized by excessive iron absorption and deposition?",
+      "options": [
+        "Hemosiderosis",
+        "Hemochromatosis",
+        "Thalassemia",
+        "Sideroblastic anemia"
+      ],
+      "answer": 1,
+      "rationale": "Hemochromatosis involves excessive absorption of dietary iron and deposition in tissues."
+    },
+    {
+      "question": "Which laboratory finding is characteristic of iron deficiency anemia?",
+      "options": [
+        "Elevated serum ferritin",
+        "Low serum ferritin",
+        "Elevated vitamin B12",
+        "Normal serum iron"
+      ],
+      "answer": 1,
+      "rationale": "Low serum ferritin is characteristic of iron deficiency anemia."
+    },
+    {
+      "question": "Which anemia is associated with a deficiency in folic acid?",
+      "options": [
+        "Microcytic",
+        "Megaloblastic",
+        "Hemolytic",
+        "Hypochromic"
+      ],
+      "answer": 1,
+      "rationale": "Folate deficiency produces megaloblastic anemia."
+    },
+    {
+      "question": "Which symptom is common in children with iron deficiency anemia?",
+      "options": [
+        "Pica",
+        "Hemarthrosis",
+        "Petechiae",
+        "Hematuria"
+      ],
+      "answer": 0,
+      "rationale": "Children with iron deficiency anemia often develop pica (craving non-food substances)."
+    },
+    {
+      "question": "Which conditions are inherited as autosomal recessive disorders? (Select all that apply.)",
+      "options": [
+        "Sickle cell disease",
+        "Thalassemia",
+        "Hemophilia A",
+        "Iron deficiency anemia",
+        "Idiopathic thrombocytopenic purpura (ITP)"
+      ],
+      "answer": [
+        0,
+        1
+      ],
+      "rationale": "Both sickle cell disease and thalassemia are inherited as autosomal recessive disorders."
+    },
+    {
+      "question": "Which are clinical manifestations of sickle cell disease? (Select all that apply.)",
+      "options": [
+        "Vaso-occlusive crisis",
+        "Sequestration crisis",
+        "Aplastic crisis",
+        "Hyperhemolytic crisis",
+        "Hemarthrosis"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "rationale": "Sickle cell disease presents with vaso-occlusive, sequestration, aplastic, and hyperhemolytic crises. Hemarthrosis is characteristic of hemophilia, not sickle cell disease."
+    },
+    {
+      "question": "Which laboratory findings are associated with pernicious anemia? (Select all that apply.)",
+      "options": [
+        "Decreased vitamin B12",
+        "Enlarged red blood cells (MCV high)",
+        "Low serum ferritin",
+        "Low reticulocyte count",
+        "Hypersegmented neutrophils"
+      ],
+      "answer": [
+        0,
+        1,
+        3,
+        4
+      ],
+      "rationale": "Vitamin B12 deficiency produces macrocytosis, hypersegmented neutrophils, and low reticulocyte counts. Serum ferritin is decreased only in iron deficiency anemia."
+    },
+    {
+      "question": "Which conditions may present with thrombocytopenia? (Select all that apply.)",
+      "options": [
+        "Idiopathic thrombocytopenic purpura (ITP)",
+        "Leukemia",
+        "Aplastic anemia",
+        "Disseminated intravascular coagulation (DIC)",
+        "Hemophilia A"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "rationale": "All listed except hemophilia A (which is a clotting factor deficiency)."
+    },
+    {
+      "question": "Matching: Match the anemia with its cause: Iron deficiency anemia, Pernicious anemia, Aplastic anemia, Hemolytic anemia, Sickle cell anemia",
+      "options": [
+        "Caused by vitamin B12 deficiency",
+        "Caused by impaired hemoglobin synthesis due to lack of iron",
+        "Caused by bone marrow failure",
+        "Caused by abnormal hemoglobin S",
+        "Caused by premature destruction of red blood cells"
+      ],
+      "answer": [
+        1,
+        0,
+        2,
+        4,
+        3
+      ],
+      "rationale": "35. Caused by vitamin B12 deficiency → Pernicious anemia; 36. Caused by impaired hemoglobin synthesis due to lack of iron → Iron deficiency anemia; 37. Caused by bone marrow failure → Aplastic anemia; 38. Caused by abnormal hemoglobin S → Sickle cell anemia; 39. Caused by premature destruction of red blood cells → Hemolytic anemia."
+    }
+  ]
+}

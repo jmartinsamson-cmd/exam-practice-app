@@ -1,0 +1,115 @@
+{
+  "chapter": 37,
+  "questions": [
+    {
+      "question": "How does chest wall compliance in an infant differ from that of an adult?",
+      "options": [
+        "An adult’s chest wall compliance is lower than an infant’s.",
+        "An adult’s chest wall compliance is higher than an infant’s.",
+        "An adult’s chest wall compliance is the same as an infant’s.",
+        "An adult’s chest wall compliance is dissimilar to that of an infant’s."
+      ],
+      "answer": 0,
+      "rationale": "Infants have higher chest wall compliance than adults, especially premature infants."
+    },
+    {
+      "question": "Why is nasal congestion a serious threat to young infants?",
+      "options": [
+        "Infants are obligatory nose breathers.",
+        "Their noses are small in diameter.",
+        "Infants become dehydrated when mouth breathing.",
+        "Their epiglottis is proportionally greater than that of an adult."
+      ],
+      "answer": 0,
+      "rationale": "Infants up to 2–3 months old are obligatory nose breathers."
+    },
+    {
+      "question": "The risk for respiratory distress syndrome (RDS) decreases for premature infants born between how many weeks of gestation?",
+      "options": [
+        "16 and 20",
+        "20 and 24",
+        "24 and 30",
+        "30 and 36"
+      ],
+      "answer": 3,
+      "rationale": "Surfactant secretion begins between 30–36 weeks."
+    },
+    {
+      "question": "Which type of croup is most common?",
+      "options": [
+        "Bacterial",
+        "Viral",
+        "Fungal",
+        "Autoimmune"
+      ],
+      "answer": 1,
+      "rationale": "Viral, most often parainfluenza virus."
+    },
+    {
+      "question": "What is the chief predisposing factor for RDS of the newborn?",
+      "options": [
+        "Low birth weight",
+        "Alcohol consumption during pregnancy",
+        "Premature birth",
+        "Smoking during pregnancy"
+      ],
+      "answer": 2,
+      "rationale": "Prematurity is the leading risk factor."
+    },
+    {
+      "question": "What is the primary cause of RDS of the newborn?",
+      "options": [
+        "Immature immune system",
+        "Small alveoli",
+        "Surfactant deficiency",
+        "Anemia"
+      ],
+      "answer": 2,
+      "rationale": "Caused primarily by surfactant deficiency."
+    },
+    {
+      "question": "What is the main problem resulting from RDS?",
+      "options": [
+        "Consolidation",
+        "Pulmonary edema",
+        "Atelectasis",
+        "Bronchiolar plugging"
+      ],
+      "answer": 2,
+      "rationale": "Atelectasis with hypoxemia and difficulty inflating alveoli."
+    },
+    {
+      "question": "Which sequence occurs after atelectasis in RDS?",
+      "options": [
+        "Increased pulmonary vascular resistance, atelectasis, hypoperfusion",
+        "Hypoxic vasoconstriction, right-to-left shunting, hypoperfusion",
+        "Respiratory acidosis, hypoxemia, hypercapnia",
+        "Right-to-left shunt, hypoxic vasoconstriction, hypoperfusion"
+      ],
+      "answer": 1,
+      "rationale": "Hypoxic vasoconstriction, right-to-left shunting, hypoperfusion."
+    },
+    {
+      "question": "Which statement about advances in RDS treatment is incorrect?",
+      "options": [
+        "Administering glucocorticoids to women before preterm labor accelerates fetal lung maturation.",
+        "Administering oxygen to mothers during preterm labor increases fetal oxygenation.",
+        "Exogenous surfactant can be instilled into an endotracheal tube of premature infants.",
+        "CPAP helps support infant respiration."
+      ],
+      "answer": 1,
+      "rationale": "Oxygen to mother does not treat fetal RDS."
+    },
+    {
+      "question": "Bronchiolitis in the first year of life is most often caused by:",
+      "options": [
+        "Respiratory syncytial virus (RSV)",
+        "Influenza virus",
+        "Adenoviruses",
+        "Rhinovirus"
+      ],
+      "answer": 0,
+      "rationale": "Respiratory syncytial virus (RSV) is the most common cause of bronchiolitis in infants."
+    }
+  ]
+}

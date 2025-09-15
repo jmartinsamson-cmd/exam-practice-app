@@ -1,0 +1,428 @@
+{
+  "chapter": 38,
+  "questions": [
+    {
+      "question": "The area of the kidney that contains the glomeruli and portions of the tubules is the:",
+      "options": [
+        "Medulla",
+        "Cortex",
+        "Pyramid",
+        "Columns"
+      ],
+      "answer": 1,
+      "rationale": "The cortex contains the glomeruli and tubules. The medulla, pyramids, and columns do not contain glomeruli."
+    },
+    {
+      "question": "What is the functional unit of the kidney?",
+      "options": [
+        "Glomerulus",
+        "Nephron",
+        "Collecting duct",
+        "Pyramid"
+      ],
+      "answer": 1,
+      "rationale": "The nephron is the functional unit; others are important but not functional units."
+    },
+    {
+      "question": "Which cells have phagocytic properties and regulate capillary blood flow?",
+      "options": [
+        "Principle cells",
+        "Podocytes",
+        "Mesangial cells",
+        "Intercalated cells"
+      ],
+      "answer": 2,
+      "rationale": "Mesangial cells regulate capillary blood flow and have phagocytic activity."
+    },
+    {
+      "question": "The only surface inside the nephron with microvilli (brush border) is the:",
+      "options": [
+        "Proximal convoluted tubule",
+        "Distal tubule",
+        "Ascending loop of Henle",
+        "Descending loop of Henle"
+      ],
+      "answer": 0,
+      "rationale": "The proximal convoluted tubule has cuboidal cells with a brush border to increase reabsorption surface area."
+    },
+    {
+      "question": "What part of the kidney controls renal blood flow, GFR, and renin secretion?",
+      "options": [
+        "Macula densa",
+        "Visceral epithelium",
+        "Juxtaglomerular apparatus (JGA)",
+        "Filtration slits"
+      ],
+      "answer": 2,
+      "rationale": "The JGA regulates renal blood flow, GFR, and renin secretion."
+    },
+    {
+      "question": "Kidney stones in the upper ureter would cause referred pain in the:",
+      "options": [
+        "Vulva or penis",
+        "Umbilicus",
+        "Thighs",
+        "Lower abdomen"
+      ],
+      "answer": 1,
+      "rationale": "Pain from stones in the upper ureter is referred to the umbilicus due to sensory innervation."
+    },
+    {
+      "question": "Innervation of the bladder and internal urethral sphincter is supplied by:",
+      "options": [
+        "Peripheral nerves",
+        "Parasympathetic fibers",
+        "Sympathetic nervous system",
+        "Thoracic nerves"
+      ],
+      "answer": 1,
+      "rationale": "Parasympathetic fibers of the ANS innervate the bladder and sphincter."
+    },
+    {
+      "question": "How much urine accumulates in the bladder before stretch receptors trigger micturition?",
+      "options": [
+        "75–100 ml",
+        "100–150 ml",
+        "250–300 ml",
+        "350–400 ml"
+      ],
+      "answer": 2,
+      "rationale": "Stretch receptors activate at ~250–300 ml, triggering the micturition reflex."
+    },
+    {
+      "question": "What is the trigone?",
+      "options": [
+        "Smooth muscle around urethra",
+        "Inner mucosal lining",
+        "Smooth triangular area between ureter openings and urethra",
+        "Loop of Henle division"
+      ],
+      "answer": 2,
+      "rationale": "The trigone is the smooth triangular region between the ureteral orifices and urethra."
+    },
+    {
+      "question": "GFR is directly related to which factor?",
+      "options": [
+        "Perfusion pressure in glomerular capillaries",
+        "Diffusion in cortex",
+        "Diffusion in medulla",
+        "Active transport"
+      ],
+      "answer": 0,
+      "rationale": "GFR is determined by perfusion pressure in glomerular capillaries."
+    },
+    {
+      "question": "On average, what % of cardiac output goes to the kidneys?",
+      "options": [
+        "10–20%",
+        "15–20%",
+        "20–25%",
+        "30–35%"
+      ],
+      "answer": 2,
+      "rationale": "Kidneys receive ~1000–1200 ml/min, or ~20–25% of cardiac output."
+    },
+    {
+      "question": "Exercise and posture change renal blood flow by:",
+      "options": [
+        "Activating parasympathetic neurons → mild vasoconstriction",
+        "Activating sympathetic neurons → mild vasoconstriction",
+        "Both activate parasympathetic",
+        "Both activate sympathetic → vasodilation"
+      ],
+      "answer": 1,
+      "rationale": "Sympathetic activation reduces renal blood flow with exercise/posture changes."
+    },
+    {
+      "question": "Blood vessels of kidneys are innervated by:",
+      "options": [
+        "Vagus nerve",
+        "Sympathetic nervous system",
+        "Somatic nervous system",
+        "Parasympathetic nervous system"
+      ],
+      "answer": 1,
+      "rationale": "Sympathetic adrenergic fibers cause vasoconstriction and reduce blood flow."
+    },
+    {
+      "question": "When renin is released, what action occurs?",
+      "options": [
+        "Natriuresis",
+        "Direct activation of angiotensin II",
+        "ADH release",
+        "Cleaves angiotensinogen → angiotensin I"
+      ],
+      "answer": 3,
+      "rationale": "Renin cleaves angiotensinogen to form angiotensin I."
+    },
+    {
+      "question": "Effect of natriuretic peptides during heart failure dilation?",
+      "options": [
+        "Stimulate antidiuretic hormone",
+        "Stimulate renin & aldosterone",
+        "Inhibit ADH",
+        "Inhibit renin & aldosterone"
+      ],
+      "answer": 3,
+      "rationale": "Natriuretic peptides inhibit renin and aldosterone, promoting natriuresis and diuresis."
+    },
+    {
+      "question": "Direct action of atrial natriuretic hormone?",
+      "options": [
+        "Sodium retention",
+        "Sodium excretion",
+        "Water retention",
+        "Water excretion"
+      ],
+      "answer": 1,
+      "rationale": "ANP and BNP promote sodium excretion."
+    },
+    {
+      "question": "Movement of solutes/fluids from tubule to peritubular plasma?",
+      "options": [
+        "Tubular secretion",
+        "Ultrafiltration",
+        "Tubular reabsorption",
+        "Tubular excretion"
+      ],
+      "answer": 2,
+      "rationale": "Tubular reabsorption = movement of solutes/fluid from tubule to plasma."
+    },
+    {
+      "question": "Plasma glucose threshold before glucose appears in urine?",
+      "options": [
+        "126 mg/dl",
+        "150 mg/dl",
+        "180 mg/dl",
+        "200 mg/dl"
+      ],
+      "answer": 2,
+      "rationale": "Glucosuria occurs when plasma glucose >180 mg/dl."
+    },
+    {
+      "question": "Which hormone is required for water reabsorption in distal tubule/collecting duct?",
+      "options": [
+        "Antidiuretic hormone (ADH)",
+        "Aldosterone",
+        "Cortisol",
+        "Adrenocorticotropic hormone"
+      ],
+      "answer": 0,
+      "rationale": "ADH makes distal tubule/collecting duct permeable to water."
+    },
+    {
+      "question": "Which glycoprotein protects against urolithiasis and is ligand for lymphokines?",
+      "options": [
+        "Uromodulin (Tamm-Horsfall protein)",
+        "Nephrin",
+        "Urocystatin",
+        "Cystatin"
+      ],
+      "answer": 0,
+      "rationale": "Uromodulin protects against infection, urolithiasis, and binds lymphokines."
+    },
+    {
+      "question": "End product of protein metabolism in urine?",
+      "options": [
+        "Glucose",
+        "Ketones",
+        "Bile",
+        "Urea"
+      ],
+      "answer": 3,
+      "rationale": "Urea is the major nitrogenous end product excreted in urine."
+    },
+    {
+      "question": "Action of urodilatin?",
+      "options": [
+        "Vasoconstriction of afferent arterioles",
+        "Vasodilation of efferent arterioles",
+        "Inhibits renin secretion",
+        "Inhibits sodium/water reabsorption"
+      ],
+      "answer": 3,
+      "rationale": "Urodilatin inhibits Na⁺/water reabsorption, promoting diuresis."
+    },
+    {
+      "question": "Which gland secretes ADH?",
+      "options": [
+        "Posterior pituitary",
+        "Thyroid",
+        "Parathyroid",
+        "Anterior pituitary"
+      ],
+      "answer": 0,
+      "rationale": "ADH is secreted from posterior pituitary."
+    },
+    {
+      "question": "Which statement is true regarding urodilatin?",
+      "options": [
+        "Inhibits NaCl & water reabsorption in medullary collecting duct",
+        "Stimulated by ADH",
+        "Stimulated by low BP",
+        "Stimulated by low volume"
+      ],
+      "answer": 0,
+      "rationale": "Urodilatin is secreted in response to high BP/volume and inhibits Na⁺/water reabsorption."
+    },
+    {
+      "question": "Substance stimulating renal hydroxylation in vitamin D production?",
+      "options": [
+        "Erythropoietin",
+        "Thyroid hormone",
+        "Calcitonin",
+        "Parathyroid hormone (PTH)"
+      ],
+      "answer": 3,
+      "rationale": "PTH stimulates hydroxylation in kidney for active vitamin D."
+    },
+    {
+      "question": "Which hormone is synthesized and secreted by kidneys?",
+      "options": [
+        "ADH",
+        "Aldosterone",
+        "Erythropoietin",
+        "Angiotensinogen"
+      ],
+      "answer": 2,
+      "rationale": "Kidneys produce erythropoietin."
+    },
+    {
+      "question": "Best estimate of renal function?",
+      "options": [
+        "GFR",
+        "BUN/Cr",
+        "Serum creatinine",
+        "Specific gravity"
+      ],
+      "answer": 0,
+      "rationale": "GFR best reflects renal function."
+    },
+    {
+      "question": "Renal change in older adults?",
+      "options": [
+        "Sharp GFR decline",
+        "Sharp renal blood flow decline",
+        "Decrease in number of nephrons",
+        "Decrease in urine output"
+      ],
+      "answer": 2,
+      "rationale": "Aging reduces nephron number."
+    },
+    {
+      "question": "Specific gravity of urine in older adults?",
+      "options": [
+        "High normal",
+        "Increased",
+        "Low normal",
+        "Increased"
+      ],
+      "answer": 2,
+      "rationale": "Older adults tend to have lower urine specific gravity."
+    },
+    {
+      "question": "How do kidneys respond to increased workload?",
+      "options": [
+        "GFR",
+        "Vitamin D3 secretion",
+        "Increased renin",
+        "Compensatory hypertrophy"
+      ],
+      "answer": 3,
+      "rationale": "Compensatory hypertrophy helps kidneys adapt to workload."
+    },
+    {
+      "question": "Which process allows ureter transplantation success?",
+      "options": [
+        "Compensatory hypertrophy",
+        "Erythropoietin",
+        "Peristalsis",
+        "Collateral circulation"
+      ],
+      "answer": 2,
+      "rationale": "Ureter peristalsis continues even when denervated."
+    },
+    {
+      "question": "Which structures are part of nephron? (Select all)",
+      "options": [
+        "Loop of Henle",
+        "Renal corpuscle",
+        "Proximal convoluted tubule",
+        "Calyx",
+        "Collecting duct"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "rationale": "Nephron includes renal corpuscle, tubules, loop, and collecting duct. Calyx is not."
+    },
+    {
+      "question": "Which forces create passive transport in proximal tubule? (Select all)",
+      "options": [
+        "Peritubular hydrostatic",
+        "Peritubular oncotic",
+        "Interstitial hydrostatic",
+        "Interstitial osmotic",
+        "Peritubular osmotic"
+      ],
+      "answer": [
+        1,
+        4
+      ],
+      "rationale": "Passive transport depends on oncotic/osmotic gradients, not hydrostatic."
+    },
+    {
+      "question": "Which hormones are produced by kidney? (Select all)",
+      "options": [
+        "Renin",
+        "Erythropoietin",
+        "1,25-dihydroxyvitamin D3",
+        "Calcitonin",
+        "Aldosterone"
+      ],
+      "answer": [
+        0,
+        1,
+        2
+      ],
+      "rationale": "Kidneys secrete renin, EPO, and calcitriol. Calcitonin and aldosterone come from other glands."
+    },
+    {
+      "question": "Which statements are true of renal circulation? (Select all)",
+      "options": [
+        "Interlobar arteries travel down renal columns",
+        "Interlobar branch to form arcuate",
+        "Arcuate arteries arch over base of pyramids",
+        "Interlobar run parallel",
+        "Interlobar run between pyramids"
+      ],
+      "answer": [
+        0,
+        2,
+        4
+      ],
+      "rationale": "Interlobar arteries travel down renal columns and between pyramids; arcuate arch at base."
+    },
+    {
+      "question": "Matching: 36. Crystals → Form in concentrated acidic/alkaline urine (B)\n37. Casts → Cylindrical with distinct borders (C)\n38. Leukocytes → Pyuria (E)\n39. Creatinine clearance → Good estimate of GFR (A)\n40. Erythrocytes → Hematuria (D)",
+      "options": [
+        "Crystals → Form in concentrated acidic/alkaline urine (B)",
+        "Casts → Cylindrical with distinct borders (C)",
+        "Leukocytes → Pyuria (E)",
+        "Creatinine clearance → Good estimate of GFR (A)",
+        "Erythrocytes → Hematuria (D)"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "rationale": "Matching: Crystals → B; Casts → C; Leukocytes → E; Creatinine clearance → A; Erythrocytes → D."
+    }
+  ]
+}

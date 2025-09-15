@@ -1,0 +1,413 @@
+{
+  "chapter": 35,
+  "questions": [
+    {
+      "question": "What pulmonary defense mechanism propels a mucous blanket that entraps particles moving toward the oropharynx?",
+      "options": [
+        "Nasal turbinates",
+        "Alveolar macrophages",
+        "Cilia",
+        "Irritant receptors on the nares"
+      ],
+      "answer": 2,
+      "rationale": "Cilia beat rhythmically to move mucus and trapped particles toward the oropharynx."
+    },
+    {
+      "question": "Which term is used to identify the movement of gas and air into and out of the lungs?",
+      "options": [
+        "Perfusion",
+        "Ventilation",
+        "Respiration",
+        "Diffusion"
+      ],
+      "answer": 1,
+      "rationale": "Ventilation refers to movement of air into and out of the lungs."
+    },
+    {
+      "question": "When an individual aspirates food particles, where would the nurse expect to hear decreased or absent breath sounds?",
+      "options": [
+        "Left lung",
+        "Right lung",
+        "Trachea",
+        "Carina"
+      ],
+      "answer": 1,
+      "rationale": "Right mainstem bronchus is wider, shorter, and more vertical."
+    },
+    {
+      "question": "Aspiration is most likely to occur in the right mainstem bronchus because it:",
+      "options": [
+        "Extends vertically from the trachea",
+        "Is narrower than the left bronchus",
+        "Comes into contact with food and drink first",
+        "Is located at the bronchial bifurcation"
+      ],
+      "answer": 0,
+      "rationale": "Right bronchus anatomy favors aspiration."
+    },
+    {
+      "question": "Air passage among alveoli is collateral and evenly distributed because of which structures?",
+      "options": [
+        "Type I alveolar cells",
+        "Pores of Kohn",
+        "Acinus pores",
+        "Alveolar pores"
+      ],
+      "answer": 1,
+      "rationale": "Pores of Kohn allow airflow between alveoli."
+    },
+    {
+      "question": "Where in the lungs does gas exchange occur?",
+      "options": [
+        "Trachea",
+        "Segmental bronchi",
+        "Alveolocapillary membrane",
+        "Main bronchus"
+      ],
+      "answer": 2,
+      "rationale": "Gas exchange occurs at the alveolocapillary membrane."
+    },
+    {
+      "question": "Surfactant produced by type II alveolar cells facilitates alveolar distention and ventilation by which mechanism?",
+      "options": [
+        "Decreasing thoracic compliance",
+        "Attracting water to alveolar surface",
+        "Decreasing surface tension",
+        "Increasing surface tension"
+      ],
+      "answer": 2,
+      "rationale": "Surfactant decreases surface tension."
+    },
+    {
+      "question": "Which part of the brainstem provides the basic automatic rhythm of respiration by sending efferent impulses to the diaphragm and intercostal muscles?",
+      "options": [
+        "Dorsal respiratory group (DRG)",
+        "Ventral respiratory group",
+        "Pneumotaxic center",
+        "Apneustic center"
+      ],
+      "answer": 0,
+      "rationale": "DRG provides basic automatic rhythm of respiration."
+    },
+    {
+      "question": "Which structures secrete surfactant?",
+      "options": [
+        "Type I alveolar cells",
+        "Type II alveolar cells",
+        "Alveolar macrophages",
+        "Stretch receptors"
+      ],
+      "answer": 1,
+      "rationale": "Type II alveolar cells secrete surfactant."
+    },
+    {
+      "question": "Which structure is not associated with lymphatic vessels?",
+      "options": [
+        "Trachea",
+        "Bronchi",
+        "Acinus",
+        "Terminal bronchioles"
+      ],
+      "answer": 2,
+      "rationale": "Acinus is not associated with lymphatic vessels."
+    },
+    {
+      "question": "Which describes the pressure in the pleural space?",
+      "options": [
+        "Atmospheric",
+        "Below atmospheric",
+        "Above atmospheric",
+        "Variable"
+      ],
+      "answer": 1,
+      "rationale": "Pleural pressure is below atmospheric."
+    },
+    {
+      "question": "The adequacy of alveolar ventilation is assessed best by monitoring which mechanism?",
+      "options": [
+        "Ventilatory rate",
+        "Ventilatory pattern",
+        "Respiratory effort",
+        "Arterial blood gas"
+      ],
+      "answer": 3,
+      "rationale": "Arterial blood gas best assesses alveolar ventilation."
+    },
+    {
+      "question": "Which normal physiologic change occurs in the aging pulmonary system?",
+      "options": [
+        "Decreased airflow resistance",
+        "Fewer alveoli",
+        "Stiffening of the chest wall",
+        "Improved elastic recoil"
+      ],
+      "answer": 2,
+      "rationale": "Aging causes stiffening of the chest wall."
+    },
+    {
+      "question": "How is most oxygen in the blood transported?",
+      "options": [
+        "Dissolved in plasma",
+        "Bound to hemoglobin",
+        "In the form of CO2",
+        "Bound to albumin"
+      ],
+      "answer": 1,
+      "rationale": "Most oxygen is transported bound to hemoglobin."
+    },
+    {
+      "question": "Stretch receptors and peripheral chemoreceptors send afferent impulses to which brain location?",
+      "options": [
+        "Pneumotaxic center (pons)",
+        "Apneustic center (pons)",
+        "Dorsal respiratory group (medulla)",
+        "Ventral respiratory group (medulla)"
+      ],
+      "answer": 2,
+      "rationale": "Afferent impulses go to the DRG in the medulla."
+    },
+    {
+      "question": "Which substances cause airway epithelium to constrict?",
+      "options": [
+        "Epinephrine, acetylcholine",
+        "Histamine, prostaglandin",
+        "Bradykinin, thromboxane A",
+        "Leukotrienes, prostacyclin"
+      ],
+      "answer": 1,
+      "rationale": "Histamine and prostaglandin cause airway constriction."
+    },
+    {
+      "question": "If a patient develops acidosis, what shift in hemoglobin-oxygen dissociation is expected?",
+      "options": [
+        "Right shift, releasing more O₂",
+        "Left shift, holding O₂",
+        "No change",
+        "Diffusion block"
+      ],
+      "answer": 0,
+      "rationale": "Acidosis causes a right shift, releasing more O₂."
+    },
+    {
+      "question": "How is most carbon dioxide (CO₂) in the blood transported?",
+      "options": [
+        "Attached to oxygen",
+        "As bicarbonate",
+        "With albumin",
+        "Dissolved in plasma"
+      ],
+      "answer": 1,
+      "rationale": "Most CO₂ is transported as bicarbonate."
+    },
+    {
+      "question": "The sternocleidomastoid and scalene muscles are classified as:",
+      "options": [
+        "Accessory inspiratory muscles",
+        "Expiratory muscles",
+        "Intercostals",
+        "Muscles of inspiration"
+      ],
+      "answer": 0,
+      "rationale": "These are accessory inspiratory muscles."
+    },
+    {
+      "question": "An increase in surface tension caused by decreased surfactant results in:",
+      "options": [
+        "Decreased alveolar macrophages",
+        "Increased compliance",
+        "Decreased alveolar collapse",
+        "Increased alveolar fluid"
+      ],
+      "answer": 3,
+      "rationale": "Decreased surfactant increases alveolar fluid."
+    },
+    {
+      "question": "Decreased lung compliance means the lungs are:",
+      "options": [
+        "Difficult to inflate",
+        "Easy to inflate",
+        "Stiffness-free",
+        "Unable to diffuse oxygen"
+      ],
+      "answer": 0,
+      "rationale": "Decreased compliance means lungs are difficult to inflate."
+    },
+    {
+      "question": "The lung is innervated by the parasympathetic nervous system via which nerve?",
+      "options": [
+        "Vagus",
+        "Phrenic",
+        "Brachial",
+        "Pectoral"
+      ],
+      "answer": 0,
+      "rationale": "The vagus nerve innervates the lung."
+    },
+    {
+      "question": "What event is characteristic of Zone 1 of lung function?",
+      "options": [
+        "Blood flow throughout",
+        "Alveolar pressure > arterial pressure",
+        "Capillaries collapse",
+        "Flow throughout"
+      ],
+      "answer": 1,
+      "rationale": "Zone 1: alveolar pressure exceeds arterial pressure."
+    },
+    {
+      "question": "Hyperventilation with CO₂ retention stimulates which receptors?",
+      "options": [
+        "Irritant",
+        "Central chemoreceptors",
+        "Stretch",
+        "Peripheral chemoreceptors"
+      ],
+      "answer": 1,
+      "rationale": "Central chemoreceptors are stimulated by CO₂ retention."
+    },
+    {
+      "question": "Most important cause of pulmonary artery constriction?",
+      "options": [
+        "Low alveolar PO₂",
+        "Hyperventilation",
+        "Respiratory alkalosis",
+        "Epinephrine"
+      ],
+      "answer": 0,
+      "rationale": "Low alveolar PO₂ is the most important cause."
+    },
+    {
+      "question": "Where does the tracheal bifurcation occur?",
+      "options": [
+        "Larynx",
+        "Bronchi",
+        "Carina",
+        "Nasopharynx"
+      ],
+      "answer": 2,
+      "rationale": "Tracheal bifurcation occurs at the carina."
+    },
+    {
+      "question": "At what PaO₂ do peripheral chemoreceptors stimulate ventilation?",
+      "options": [
+        "<100 mmHg",
+        "<80 mmHg",
+        "<70 mmHg",
+        "<60 mmHg"
+      ],
+      "answer": 3,
+      "rationale": "Peripheral chemoreceptors stimulate ventilation at PaO₂ <60 mmHg."
+    },
+    {
+      "question": "Which receptors are located in smooth muscles of airways?",
+      "options": [
+        "Central chemoreceptors",
+        "Stretch receptors",
+        "Peripheral chemoreceptors",
+        "J-receptors"
+      ],
+      "answer": 1,
+      "rationale": "Stretch receptors are located in airway smooth muscle."
+    },
+    {
+      "question": "Which receptors are located near the respiratory center?",
+      "options": [
+        "Peripheral chemoreceptors",
+        "Stretch receptors",
+        "Central chemoreceptors",
+        "J-receptors"
+      ],
+      "answer": 2,
+      "rationale": "Central chemoreceptors are near the respiratory center."
+    },
+    {
+      "question": "Which receptors are in aortic bodies and carotids?",
+      "options": [
+        "Central chemoreceptors",
+        "Stretch receptors",
+        "J-receptors",
+        "Peripheral chemoreceptors"
+      ],
+      "answer": 3,
+      "rationale": "Peripheral chemoreceptors are in aortic bodies and carotids."
+    },
+    {
+      "question": "Purpose of spirometry measurement?",
+      "options": [
+        "Assess hypoxia",
+        "Volume/flow rate",
+        "Gas diffusion",
+        "pH and gas concentrations"
+      ],
+      "answer": 3,
+      "rationale": "Spirometry measures pH and gas concentrations."
+    },
+    {
+      "question": "Which structures are upper conducting airways? (Select all that apply)",
+      "options": [
+        "Oropharynx",
+        "Larynx",
+        "Nasopharynx",
+        "Trachea",
+        "Bronchi"
+      ],
+      "answer": [
+        0,
+        2
+      ],
+      "rationale": "Oropharynx and nasopharynx are upper conducting airways."
+    },
+    {
+      "question": "Regarding remodeling, which are true? (Select all that apply)",
+      "options": [
+        "Involves airway walls",
+        "Scarring/thickening",
+        "Permanent change",
+        "Causes pulmonary hypertension",
+        "Increases blood flow"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "rationale": "Remodeling involves airway walls, scarring/thickening, permanent change, and causes pulmonary hypertension."
+    },
+    {
+      "question": "What are the effects of aging on the pulmonary system? (Select all that apply)",
+      "options": [
+        "Decreased compliance",
+        "Decreased recoil",
+        "Reduced ventilatory reserve",
+        "Decreased PaO₂",
+        "Reduced rate"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "rationale": "Aging causes decreased compliance, recoil, ventilatory reserve, and PaO₂."
+    },
+    {
+      "question": "Match the receptor with its function: Irritant receptors, Stretch receptors, J-receptors, Peripheral chemoreceptors, Central chemoreceptors",
+      "options": [
+        "Rapid shallow breathing",
+        "Hering-Breuer reflex",
+        "Initiates cough reflex",
+        "Monitor PaO₂/CO₂, pH",
+        "Monitor CSF pH"
+      ],
+      "answer": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "rationale": "A. Irritant receptors → Rapid shallow breathing; B. Stretch receptors → Hering-Breuer reflex; C. J-receptors → Initiates cough reflex; D. Peripheral chemoreceptors → Monitor PaO₂/CO₂, pH; E. Central chemoreceptors → Monitor CSF pH."
+    }
+  ]
+}
