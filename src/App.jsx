@@ -310,13 +310,16 @@ const AppContent = () => {
 
       {/* Main Content */}
       <div style={{
-        paddingLeft: state.sidebarOpen && (typeof window === 'undefined' || window.innerWidth > 768) ? '350px' : '0',
-        transition: 'padding-left 0.3s ease',
-        minHeight: 'calc(100vh - 80px)'
+        marginLeft: state.sidebarOpen && (typeof window === 'undefined' || window.innerWidth > 768) ? '350px' : '0',
+        transition: 'margin-left 0.3s ease',
+        minHeight: 'calc(100vh - 80px)',
+        display: 'flex',
+        justifyContent: 'center',
+        width: state.sidebarOpen && (typeof window === 'undefined' || window.innerWidth > 768) ? 'calc(100vw - 350px)' : '100vw'
       }}>
         <div style={{
           maxWidth: '1200px',
-          margin: '0 auto',
+          width: '100%',
           padding: '1rem'
         }}>
           {currentView === 'study' ? (
