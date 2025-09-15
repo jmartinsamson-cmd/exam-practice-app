@@ -3,14 +3,15 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  plugins: [react()],
+  plugins: [
+    react({
+      // Ensure JSX files are processed correctly
+      include: '**/*.{jsx,js}',
+    })
+  ],
   base: '/exam-practice-app/', // Set base path for GitHub Pages deployment
   resolve: {
     extensions: ['.js', '.jsx', '.ts', '.tsx'], // Add explicit extensions to resolve
-    alias: {
-      // Add alias to ensure imports resolve correctly
-      'src': '/src'
-    }
   },
   build: {
     // Ensure source maps are generated
@@ -28,6 +29,12 @@ export default defineConfig({
         chunkFileNames: 'assets/[name]-[hash].js',
         assetFileNames: 'assets/[name]-[hash].[ext]'
       }
-    }
+    },
+    // Process JSX files and copy them to the output directory
+    emptyOutDir: true,
+  },
+  // Ensure optimizations are applied
+  optimizeDeps: {
+    include: ['react', 'react-dom']
   }
 })
