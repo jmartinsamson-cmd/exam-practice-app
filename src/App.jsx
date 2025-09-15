@@ -2171,7 +2171,7 @@ function App() {
           aria-label="Search chapters and questions"
         />
         <ul style={{ listStyle: 'none', padding: 0, maxHeight: '60vh', overflowY: 'auto' }} role="listbox" aria-labelledby="sidebar-title">
-          {filterChapters(chapters, search).map((ch, idx) => (
+          {filterChapters(chapters, search).map((ch) => (
             <li key={ch.chapter} role="option" aria-selected={ch.chapter === chapters[chapterIdx]?.chapter}>
               <button
                 style={{
