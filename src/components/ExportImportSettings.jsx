@@ -1,5 +1,5 @@
 import React, { useState, useRef } from 'react';
-import { useApp } from '../contexts/AppContext';
+import { useApp } from '../hooks/useApp';
 import { exportStudyData, importStudyData, exportProgressReport } from '../services/dataService';
 
 const ExportImportSettings = ({ theme = 'dark', onClose = null }) => {

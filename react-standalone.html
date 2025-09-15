@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>React Exam Practice App</title>
+    <script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
+    <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+</head>
+<body>
+    <div id="root"></div>
+
+    <script type="text/babel">
+        function ExamApp() {
+            const [currentQuestion, setCurrentQuestion] = React.useState(0);
+            const [score, setScore] = React.useState(0);
+            const [showResult, setShowResult] = React.useState(false);
+
+            const questions = [
+                {
+                    question: "What is 2 + 2?",
+                    options: ["3", "4", "5", "6"],
+                    correct: 1
+                },
+                {
+                    question: "What is the capital of France?",
+                    options: ["London", "Berlin", "Paris", "Madrid"],
+                    correct: 2
+                },
+                {
+                    question: "Which planet is closest to the Sun?",
+                    options: ["Venus", "Mercury", "Earth", "Mars"],
+                    correct: 1
+                }
+            ];
+
+            const handleAnswer = (selectedIndex) => {
+                if (selectedIndex === questions[currentQuestion].correct) {
+                    setScore(score + 1);
+                }
+
+                if (currentQuestion < questions.length - 1) {
+                    setCurrentQuestion(currentQuestion + 1);
+                } else {
+                    setShowResult(true);
+                }
+            };
+
+            const resetQuiz = () => {
+                setCurrentQuestion(0);
+                setScore(0);
+                setShowResult(false);
+            };
+
+            if (showResult) {
+                return (
+                    <div style={{ padding: '40px', textAlign: 'center', fontFamily: 'Arial, sans-serif' }}>
+                        <h1 style={{ color: '#4CAF50' }}>Quiz Complete! 🎉</h1>
+                        <p style={{ fontSize: '24px' }}>
+                            Your Score: {score} out of {questions.length}
+                        </p>
+                        <p style={{ fontSize: '18px', color: '#666' }}>
+                            Percentage: {Math.round((score / questions.length) * 100)}%
+                        </p>
+                        <button
+                            onClick={resetQuiz}
+                            style={{
+                                padding: '12px 24px',
+                                fontSize: '16px',
+                                backgroundColor: '#4CAF50',
+                                color: 'white',
+                                border: 'none',
+                                borderRadius: '6px',
+                                cursor: 'pointer',
+                                marginTop: '20px'
+                            }}
+                        >
+                            Start Over
+                        </button>
+                    </div>
+                );
+            }
+
+            return (
+                <div style={{ padding: '40px', maxWidth: '600px', margin: '0 auto', fontFamily: 'Arial, sans-serif' }}>
+                    <h1 style={{ textAlign: 'center', color: '#333' }}>
+                        React Exam Practice App ✅
+                    </h1>
+
+                    <div style={{ marginBottom: '20px', textAlign: 'center' }}>
+                        <p style={{ color: '#666' }}>
+                            Question {currentQuestion + 1} of {questions.length}
+                        </p>
+                        <div style={{
+                            width: '100%',
+                            height: '8px',
+                            backgroundColor: '#f0f0f0',
+                            borderRadius: '4px',
+                            overflow: 'hidden'
+                        }}>
+                            <div style={{
+                                width: `${((currentQuestion + 1) / questions.length) * 100}%`,
+                                height: '100%',
+                                backgroundColor: '#4CAF50',
+                                transition: 'width 0.3s ease'
+                            }}></div>
+                        </div>
+                    </div>
+
+                    <div style={{
+                        backgroundColor: '#f9f9f9',
+                        padding: '30px',
+                        borderRadius: '10px',
+                        marginBottom: '20px'
+                    }}>
+                        <h2 style={{ marginBottom: '20px', color: '#333' }}>
+                            {questions[currentQuestion].question}
+                        </h2>
+
+                        <div>
+                            {questions[currentQuestion].options.map((option, index) => (
+                                <button
+                                    key={index}
+                                    onClick={() => handleAnswer(index)}
+                                    style={{
+                                        display: 'block',
+                                        width: '100%',
+                                        padding: '15px',
+                                        margin: '10px 0',
+                                        fontSize: '16px',
+                                        backgroundColor: 'white',
+                                        border: '2px solid #ddd',
+                                        borderRadius: '8px',
+                                        cursor: 'pointer',
+                                        transition: 'all 0.2s ease'
+                                    }}
+                                    onMouseOver={(e) => {
+                                        e.target.style.backgroundColor = '#f0f0f0';
+                                        e.target.style.borderColor = '#4CAF50';
+                                    }}
+                                    onMouseOut={(e) => {
+                                        e.target.style.backgroundColor = 'white';
+                                        e.target.style.borderColor = '#ddd';
+                                    }}
+                                >
+                                    {String.fromCharCode(65 + index)}. {option}
+                                </button>
+                            ))}
+                        </div>
+                    </div>
+
+                    <p style={{ textAlign: 'center', color: '#666', fontSize: '14px' }}>
+                        Click an answer to continue • No server required! ⚡
+                    </p>
+                </div>
+            );
+        }
+
+        // Render the app
+        const root = ReactDOM.createRoot(document.getElementById('root'));
+        root.render(<ExamApp />);
+
+        console.log('React Exam Practice App loaded successfully - no infinite loops!');
+    </script>
+</body>
+</html>

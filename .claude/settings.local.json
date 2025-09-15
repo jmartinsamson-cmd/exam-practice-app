@@ -18,7 +18,11 @@
       "Bash(npm run deploy:*)",
       "Bash(git checkout:*)",
       "Bash(git fetch:*)",
-      "WebFetch(domain:jmartinsamson-cmd.github.io)"
+      "WebFetch(domain:jmartinsamson-cmd.github.io)",
+      "Bash(npm audit:*)",
+      "Bash(taskkill:*)",
+      "Bash(findstr:*)",
+      "Read(//c/Users/jsamb/**)"
     ],
     "deny": [],
     "ask": []

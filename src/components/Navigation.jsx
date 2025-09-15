@@ -1,5 +1,5 @@
 import React from 'react';
-import { useApp } from '../contexts/AppContext';
+import { useApp } from '../hooks/useApp';
 import { getNextAdaptiveQuestion } from '../services/dataService';
 
 const Navigation = () => {

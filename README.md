@@ -3,15 +3,18 @@
 This React + Material UI app presents questions from selected chapters one at a time, allows answer submission, and displays rationales after each answer.
 
 ## How to Run
+
 1. Install dependencies: `npm install`
 2. Start the app: `npm run dev`
 
 ## Features
+
 - Material UI design
 - Interactive question flow
 - Rationale shown after each answer
 
 ## Next Steps
+
 - Add questions and logic to display them
 - Implement answer submission and rationale display
 
